@@ -1,1 +1,2 @@
 Login validation feature added
+Login validation update version 2
